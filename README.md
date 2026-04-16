@@ -4,6 +4,9 @@
 不是替你决定人生，  
 而是帮你把几种可能的人生方向，提前推演一遍。
 
+This is a life direction simulation project inspired by Odyssey Plan.  
+It helps people turn vague life choices into clearer, more comparable, and more testable paths.
+
 ---
 
 ## 这是什么
