@@ -231,12 +231,12 @@ Created and maintained by **ningning-ai**.
 
 Built with a little of warmth for anyone trying to think more clearly about life choices.
 
-## 一个小小的愿望
+## 愿望
 
-希望这个项目不能替你回答“人生的标准答案”，  
+虽然这个项目不能替你回答“人生的标准答案”，  
 但至少能陪你把未来几种可能性，先认真推演一遍。
 
-> **把人生选择，从纠结，变成推演。**
+> **把人生选择，从纠结，变成具体的人、事、物。**
 
 
 Created and maintained by **ningning**
