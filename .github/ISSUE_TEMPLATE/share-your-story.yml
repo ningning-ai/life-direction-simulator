@@ -1,0 +1,46 @@
+name: Share your story
+description: Share how you used this project and what you learned
+title: "[Story]: "
+labels: ["story"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing your story.
+        This project is built to help people think more clearly about life choices, and your experience may help someone else too.
+
+  - type: textarea
+    id: situation
+    attributes:
+      label: What situation were you in?
+      description: Briefly describe the life choice, confusion, or transition you were facing.
+      placeholder: I was thinking about changing jobs / moving cities / rethinking my life direction...
+    validations:
+      required: true
+
+  - type: textarea
+    id: how_used
+    attributes:
+      label: How did you use this project?
+      description: Tell us which prompt, template, or workflow you used.
+      placeholder: I used the system prompt and output template to simulate 3 possible paths...
+    validations:
+      required: true
+
+  - type: textarea
+    id: result
+    attributes:
+      label: What did it help you see more clearly?
+      description: Share any insight, shift, or action you took after using it.
+      placeholder: It helped me realize I was not really confused about work, but about the life I wanted...
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Anything that could be improved?
+      description: Optional
+      placeholder: A better intake flow / more examples / a relationship-focused version...
+    validations:
+      required: false
