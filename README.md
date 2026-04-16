@@ -1,5 +1,5 @@
 # 下一步推演Skill
-### Life Direction Simulator Skill
+### Simulate your next steps Skill
 
 **把下一步的纠结，变成可推演的选择。**
 
