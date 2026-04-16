@@ -1,0 +1,45 @@
+name: Improvement suggestion
+description: Suggest a better prompt, workflow, template, or structure
+title: "[Improve]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve this project.
+        Clear suggestions make it easier to iterate the repository in a meaningful way.
+
+  - type: input
+    id: target
+    attributes:
+      label: What part do you want to improve?
+      description: Which file, section, or workflow is this about?
+      placeholder: intake questions / README structure / output template / examples
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: What feels insufficient right now?
+      description: Describe the current limitation or gap.
+      placeholder: The questions are too broad / the output is too long / the README is hard to scan...
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What do you suggest instead?
+      description: Be as concrete as possible.
+      placeholder: Add a shorter version / split by scenario / include more grounded examples...
+    validations:
+      required: true
+
+  - type: textarea
+    id: value
+    attributes:
+      label: Why would this make the project better?
+      placeholder: It would make the tool easier to use for first-time users...
+    validations:
+      required: false
