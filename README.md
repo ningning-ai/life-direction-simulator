@@ -1,5 +1,5 @@
 # 人生方向模拟推演SKILL
-### Life Direction Simulator
+### Life Direction Simulator SKILL
 
 **把人生选择，从纠结，变成推演。**
 
