@@ -1,3 +1,6 @@
+> This is a fictional composite example for demonstration only.  
+> 以下为虚构的合成案例，仅用于演示方法，不对应任何真实个人。
+
 # Example Case: City Choice
 
 ## User Question
