@@ -222,7 +222,7 @@ life-direction-simulator/
 
 Created and maintained by **ningning-ai**.
 
-Built with a little of ningning's warmth for anyone trying to think more clearly about life choices.
+Built with a little of warmth for anyone trying to think more clearly about life choices.
 
 ## 一个小小的愿望
 
