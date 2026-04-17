@@ -151,6 +151,7 @@ Simulate-your-next-steps/
     └── pull_request_template.md
 ```
 
+---
 
 ## 如何使用
 
@@ -246,6 +247,3 @@ Simulate-your-next-steps/
 Created and maintained by **ningning-ai**.
 
 Built with a little of **ningning's warmth** for anyone trying to think more clearly about their next step.
-
-
-
